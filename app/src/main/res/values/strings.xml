@@ -3,6 +3,7 @@
     <string name="list">List</string>
     <string name="grid">Grid</string>
     <string name="about">About</string>
+    <string name="change_view">Change View</string>
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
@@ -40,4 +41,9 @@
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
     <string name="ingredients">Ingredients</string>
+    <string name="description">Description</string>
+    <string name="icon_ingredient">icon ingredient</string>
+    <string name="coffee_image">coffee image</string>
+    <string name="price">Price</string>
+    <string name="icon_description">icon description</string>
 </resources>
