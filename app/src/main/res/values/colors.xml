@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary coffee tones -->
+    <color name="coffee_brown">#6F4E37</color> <!-- Dark coffee -->
+    <color name="espresso">#4B3832</color> <!-- Rich espresso -->
+    <color name="latte">#CBB994</color> <!-- Latte beige -->
+    <color name="cappuccino">#A1887F</color> <!-- Cappuccino brown -->
+
+    <!-- Backgrounds -->
+    <color name="background_light">#FAF3E0</color> <!-- Creamy background -->
+    <color name="background_dark">#2D2424</color> <!-- Dark mode coffee -->
+
+    <!-- Accents -->
+    <color name="caramel">#D2691E</color> <!-- Caramel highlight -->
+    <color name="mocha">#8B4513</color> <!-- Mocha accent -->
+    <color name="foam_white">#FFF8E7</color> <!-- Milk foam white -->
+
+    <!-- Neutrals -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#9E9E9E</color>
+</resources>

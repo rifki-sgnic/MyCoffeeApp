@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyCoffeeApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/espresso</item>
+        <item name="colorPrimaryVariant">@color/coffee_brown</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary / accent -->
+        <item name="colorSecondary">@color/caramel</item>
+        <item name="colorSecondaryVariant">@color/mocha</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Backgrounds -->
+        <item name="android:colorBackground">@color/background_dark</item>
+        <item name="colorSurface">@color/coffee_brown</item>
+        <item name="colorOnBackground">@color/foam_white</item>
+        <item name="colorOnSurface">@color/foam_white</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/foam_white</item>
+        <item name="android:textColorSecondary">@color/latte</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/espresso</item>
+        <item name="android:navigationBarColor">@color/background_dark</item>
+    </style>
+</resources>
