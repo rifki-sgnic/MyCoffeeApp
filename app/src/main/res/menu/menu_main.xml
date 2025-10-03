@@ -9,7 +9,7 @@
         app:showAsAction="always" />
 
     <item
-        android:id="@+id/about"
+        android:id="@+id/about_page"
         android:title="@string/about"
         android:icon="@drawable/outline_person_24"
         app:iconTint="@color/white"

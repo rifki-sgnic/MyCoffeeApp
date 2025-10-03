@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }
 
-            R.id.about -> {
+            R.id.about_page -> {
                 val intent = Intent(this, AboutActivity::class.java)
                 startActivity(intent)
             }
