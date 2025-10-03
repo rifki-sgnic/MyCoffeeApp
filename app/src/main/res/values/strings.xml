@@ -3,7 +3,20 @@
     <string name="list">List</string>
     <string name="grid">Grid</string>
     <string name="about">About</string>
+    <string name="share">Share</string>
     <string name="change_view">Change View</string>
+    <!-- About Me -->
+    <string name="profile_name">Muhammad Rifki</string>
+    <string name="profile_email">mrfk.sgn@gmail.com</string>
+    <string name="profile_bio">Coffee enthusiast and developer. Passionate about creating beautiful apps and enjoying great coffee.</string>
+    <string name="profile_github">github.com/rifki-sgnic</string>
+    <string name="profile_linkedin">linkedin.com/in/muhammad-rifki</string>
+    <string name="profile_instagram">\@rifkii.md</string>
+
+    <!-- Content descriptions -->
+    <string name="github_icon">GitHub icon</string>
+    <string name="linkedin_icon">LinkedIn icon</string>
+    <string name="instagram_icon">Instagram icon</string>
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
@@ -46,4 +59,12 @@
     <string name="coffee_image">coffee image</string>
     <string name="price">Price</string>
     <string name="icon_description">icon description</string>
+    <string name="email">Email</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="social_media">Social Media</string>
+    <string name="github">GitHub</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="instagram">Instagram</string>
 </resources>
