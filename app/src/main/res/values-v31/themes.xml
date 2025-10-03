@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyCoffeeApp.SplashScreen" parent="Base.Theme.MyCoffeeApp">
+        <!-- Android 12+ attributes -->
+        <item name="android:windowSplashScreenBackground">?attr/colorPrimary</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_coffee</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
+
+        <item name="windowSplashScreenBackground">?attr/colorPrimary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_coffee</item>
+        <item name="postSplashScreenTheme">@style/Theme.MyCoffeeApp</item>
+
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
