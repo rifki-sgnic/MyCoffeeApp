@@ -27,4 +27,18 @@
     </style>
 
     <style name="Theme.MyCoffeeApp" parent="Base.Theme.MyCoffeeApp" />
+
+    <style name="Theme.MyApp.Splash" parent="Theme.SplashScreen">
+        <!-- Splash background -->
+        <item name="windowSplashScreenBackground">@color/white</item>
+
+        <!-- Splash icon (can be mipmap, drawable, vector) -->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+
+        <!-- Optional duration -->
+        <item name="windowSplashScreenAnimationDuration">300</item>
+
+        <!-- The theme that takes over after splash -->
+        <item name="postSplashScreenTheme">@style/Theme.MyCoffeeApp</item>
+    </style>
 </resources>
